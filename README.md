@@ -1,6 +1,7 @@
 # TurkishWordFreq
 Turkish Word Frequency List
 
+```
 >>> for e in open(WordFreq):
 ...  print(e)
 ... 
@@ -25,6 +26,7 @@ Turkish Word Frequency List
 ('1', 543903)
 ('her', 541497)
 -----
+```
 For Remaining words check the file WordFreq.csv 
 
 This Turkish Words Frequency list is computed using Boun Web Corpus*
